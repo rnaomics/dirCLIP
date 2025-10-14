@@ -22,9 +22,10 @@
    ```
 
 2. Navigate to the desired folder and run the scripts using Python or R:
+
+To find dirCLIP sites using Mutation profiling, go to the folder Mutation profiling.
    ```bash
    cd Mutation_profiling
-   Rscript 4_Group_enriched_read_ends_by_regions.R
    ```
 
 3. Ensure required dependencies are installed (e.g., Bioconductor packages for R, pandas/numpy for Python).
@@ -33,4 +34,4 @@
 This project is released under the MIT License.
 
 ## 📬 Contact
-For questions or collaborations, please contact [rnaomics@github.com](mailto:rnaomics@github.com).
+For questions, please contact Mohamed Bahrudeen (mailto:mohamed.mohamedbahrdueen@tuni.fi).
