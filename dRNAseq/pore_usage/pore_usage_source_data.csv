@@ -1,0 +1,9 @@
+run,group,flow_cell,duty_time_file,run_hours,productive_first6h_pct,productive_whole_run_pct,"first6h_Sequencing, strand","first6h_Sequencing, adapter","first6h_Open pore, idle",first6h_Blocked or recovering,first6h_No functional pore or other
+SRSF3 -UV rep2,Transcriptome,FAR38530,duty_time_FAR38530_232bfccf.csv,44.3,77.1,28.9,56.8,20.26,1.15,8.3,13.49
+SRSF3 +UV rep1,Transcriptome,FAR36802,duty_time_FAR36802_e3957555.csv,44.2,71.0,23.6,42.98,28.0,1.98,10.09,16.96
+WT -UV (in vitro polyA),Transcriptome,FAQ68836,duty_time_FAQ68836_041bc923.csv,46.6,74.5,31.0,18.38,56.14,1.48,7.11,16.89
+SRSF3 IP rep1,dirCLIP IP,FAQ69228,duty_time_FAQ69228_21f13506.csv,44.1,40.5,8.5,7.16,33.36,36.75,3.8,18.93
+SRSF3 IP rep2,dirCLIP IP,FAR36745,duty_time_FAR36745_6a4a350e.csv,41.4,44.2,12.5,11.81,32.37,13.61,11.3,30.9
+HMGA1a IP rep1,dirCLIP IP,FAO06310,duty_time_FAO06310_886c716d.csv,41.8,46.1,17.3,9.88,36.2,4.55,5.65,43.72
+HMGA1a IP rep2,dirCLIP IP,FAO07922,duty_time_FAO07922_ed7256a2.csv,44.1,66.5,34.0,12.26,54.26,5.16,7.94,20.38
+HMGA1a IP rep3,dirCLIP IP,FAQ69580,duty_time_FAQ69580_c5f85c48.csv,47.0,64.0,26.7,16.2,47.78,2.51,9.82,23.7

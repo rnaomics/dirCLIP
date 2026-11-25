@@ -1,0 +1,15 @@
+srun: job 70879 queued and waiting for resources
+srun: job 70879 has been allocated resources
+== BED semantics (peak = [start, end), as computed in step 2)
++UV p<0.005  sig 133/492 = 27.03%  other 78628/272050 = 28.90%
++UV p<0.05  sig 441/1551 = 28.43%  other 78320/270991 = 28.90%
+-UV p<0.005  sig 839/2372 = 35.37%  other 72524/245888 = 29.49%
+-UV p<0.05  sig 1922/5642 = 34.07%  other 71441/242618 = 29.45%
+== peaks read one nucleotide wider on the low coordinate side (BED start taken as 1 based)
++UV p<0.005  sig 136/492 = 27.64%  other 81035/272050 = 29.79%
++UV p<0.05  sig 455/1551 = 29.34%  other 80716/270991 = 29.79%
+-UV p<0.005  sig 861/2372 = 36.30%  other 74697/245888 = 30.38%
+-UV p<0.05  sig 1972/5642 = 34.95%  other 73586/242618 = 30.33%
+== covered peaks (all tier), BED semantics, per arm
++UV covered peaks: 4312 ; with the one nucleotide wider reading: 4329
+-UV covered peaks: 4307 ; with the one nucleotide wider reading: 4325

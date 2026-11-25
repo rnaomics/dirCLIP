@@ -1,0 +1,7 @@
+rows 344464, with a p value 226360, of which with a finite LOR 226360
+conditions: SRSF3_noUV and SRSF3_CLIP 
+largest difference between rebuilt and reported |LOR|: 1.21e-13 (must be about zero)
+reported p equals the raw p at              0.24% of positions
+reported p equals the BH adjusted raw p at 100.00% of positions
+smallest reported p 8.66e-57; smallest raw p 3.83e-62; ratio 226360 (positions tested: 226360)
+positions with |LOR| >= 1 and p < 0.005: 956 on the reported column, 3336 on the raw p
