@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # dirCLIP: Computational workflows and analysis code
 
 This repository contains the computational workflows, analysis scripts,
@@ -116,6 +115,7 @@ and downstream analyses.
   [`figure_scripts/`](dcDNAseq/figure_scripts/)               R and Python scripts    See the analysis-specific README files in each subdirectory.
                                                               for downstream analyses 
                                                               and manuscript figures. 
+															  
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Figure-generation and downstream analysis directories
@@ -152,6 +152,7 @@ and downstream analyses.
 
   [`figure_data/`](dcDNAseq/figure_scripts/figure_data/)                             Selected processed tables used by
                                                                                      downstream figure scripts.
+																					 
   ----------------------------------------------------------------------------------------------------------------------
 
 The figure-analysis directories contain README files describing the
@@ -230,7 +231,8 @@ checks.
                                                                                sizes and SHA-256 checksums  
                                                                                for the contents of          
                                                                                `dRNAseq/` (excluding the    
-                                                                               manifest itself).            
+                                                                               manifest itself).     
+																			   
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Important distinction between the dRNA workflows
@@ -279,6 +281,7 @@ reported results.
   Pore-usage analysis                 `dRNAseq/pore_usage/`
 
   Sequencing-depth table              `dRNAseq/depth_table/`
+  
   ------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
@@ -406,6 +409,7 @@ This project is distributed under the MIT License. See
 For questions about the code or analyses, please contact the
 corresponding author or repository maintainer listed with the
 manuscript.
+
 =======
 # dirCLIP
 
@@ -444,4 +448,4 @@ This project is released under the MIT License.
 
 ## 📬 Contact
 For questions, please contact Mohamed Bahrudeen (mailto:mohamed.mohamedbahrdueen@tuni.fi).
->>>>>>> 90ef3501dc4c2b0f9aeb9739ba7950194de15365
+
